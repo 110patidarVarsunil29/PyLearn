@@ -8,6 +8,7 @@ result = mycursors.fetchall()
 for i in result:
     print(i)
 
+
 for i in result:
     name=i[0]
     college=i[1]
