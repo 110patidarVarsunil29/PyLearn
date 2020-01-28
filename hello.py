@@ -1,0 +1,10 @@
+print("Hello Python Buddy!")
+print("Hello again")
+print("I like typing this")
+print("This is fun")
+print("Yay! printing")
+#print("Hey! are you serious?")
+print("Hello how's it?")
+print("I could have code like this")
+print("This will run")
+
