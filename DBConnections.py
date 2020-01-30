@@ -15,3 +15,6 @@ for i in result:
     print(f"Name: {name}; College: {college}")
 
 mydb.close()
+
+# I am just deleting db connection setup for this file
+# pip uninstall mysql-connector-python
